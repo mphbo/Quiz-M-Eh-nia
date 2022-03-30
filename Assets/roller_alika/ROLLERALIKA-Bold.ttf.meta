@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 4d788073552214c0bb0e00e8e40ec314
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - ROLLER ALIKA
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 958fc6ab36c41473eb30ecde9a6cb756, type: 3}
+  - {fileID: 12800000, guid: eaa3138f5d15a4c1788ffb204069cb94, type: 3}
+  - {fileID: 12800000, guid: 5198129dfdeac4403b9529a3df3a027b, type: 3}
+  - {fileID: 12800000, guid: fadf2e4d56d934dac999435571061c56, type: 3}
+  - {fileID: 12800000, guid: 045cf1eb9ec0749a7a998b6595f625cf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
