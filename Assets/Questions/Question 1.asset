@@ -12,4 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 797bcf021fef54eea8fa0d1b71ee53c8, type: 3}
   m_Name: Question 1
   m_EditorClassIdentifier: 
-  question: Enter new question text here.
+  question: What is the capitol of Saskatchewan?
+  answers:
+  - Edmonton
+  - Saskatoon
+  - Regina
+  - Manitoba
+  correctAnswerIndex: 2
