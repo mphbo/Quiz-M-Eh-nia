@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: Who is the current Deputy Prime Minister of Canada?
   answers:
-  - 
-  - 
-  - 
-  - 
+  - Chrystia Freeland
+  - Justin Trudeau
+  - John A. Macdonald
+  - Jagmeet Singh
   correctAnswerIndex: 0

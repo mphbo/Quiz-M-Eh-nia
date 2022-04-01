@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: Who is the premier of Alberta?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - Rachel Notley
+  - Andrew Sheer
+  - Jason Kenney
+  - Paul Martin
+  correctAnswerIndex: 2

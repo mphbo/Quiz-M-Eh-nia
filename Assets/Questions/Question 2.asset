@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: Who was the last Conservative Prime Minister of Canada?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - Brian Mulroney
+  - Erin O'Toole
+  - Jack Layton
+  - Stephen Harper
+  correctAnswerIndex: 3
